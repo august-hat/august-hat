@@ -3,4 +3,4 @@
 <h2>Projects:</h2>
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Port Scanner](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
