@@ -1,4 +1,4 @@
-<h1><br/><a href="https://github.com/august-hat">Github</a>, <a href="https://www.linkedin.com/in/andrew-t-0998b1256/">Andrew T's Linkedin>
+<h1><br/><a href="https://github.com/august-hat">Github</a>, <a href="https://www.linkedin.com/in/andrew-t-0998b1256/">Linkedin>
 
 <h2>Projects:</h2>
 
